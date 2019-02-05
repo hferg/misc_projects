@@ -1,0 +1,12 @@
+name: hydrationcalc
+title: hydrationcalc
+username:
+account: apes-ma
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 690724
+bundleId: 1857082
+url: https://apes-ma.shinyapps.io/hydrationcalc/
+when: 1549363490.87852
+asMultiple: FALSE
+asStatic: FALSE
